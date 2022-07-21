@@ -1,0 +1,28 @@
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana; padding-bottom: 20px;}
+.maindiv {
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    margin:0 auto;
+}
+
+.result_msg {
+    margin-top: 20px;
+}
+
+.result_msg div {    
+    margin: 0;  
+}
+
+.result_msg div .highlight {
+    background-color: yellow;
+    display: inline-block;
+}
+
+.right_info{
+    display: inline-block;    
+    width: 150px;
+}
